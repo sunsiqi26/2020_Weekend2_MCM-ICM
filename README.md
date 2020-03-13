@@ -1,0 +1,3 @@
+# 2020 WEEKEND2 MCM/ICM PROBLEMS AND REFERENCE
+
+We selected Problem C in the 2020 WEEKEND2 MCM/ICM PROBLEMS. The three questions and official data for the WEEKEND2 were placed in the problem folder. The MCMICM2018_Problem C and MCMICM2019_Problem C folders contained the Outstanding winners papers for the last two years of C questions, MCM. The Paper Template.docx file is the word template for the Problem C paper made by our group. The data analysis process relies on the Amazon-Product-Recommender-System-master project and SPSS software. SPSS software can be downloaded from the official website for a 14-day trial period (https://www.ibm.com/cn-zh/marketplace/spss-statistics).
